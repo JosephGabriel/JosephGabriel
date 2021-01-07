@@ -12,7 +12,7 @@ Skills: React / React Native / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/JosephGabriel)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josephgabrielmoura//)
 
 <a href="https://github.com/JosephGabriel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephGabriel&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephGabriel&show_icons=true&theme=radical&hide=shell" />
 </a>
 
 <a href="https://github.com/JosephGabriel">
