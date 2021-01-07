@@ -14,3 +14,7 @@ Skills: React / React Native / JS / HTML / CSS
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JosephGabriel&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriel&layout=compact&theme=radical" />
+</a>
