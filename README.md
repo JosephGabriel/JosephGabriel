@@ -1,6 +1,7 @@
+![FullStack Javascript Developer](https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg)
+
 ### Hi there 👋, I'm Joseph
 #### FullStack Javascript Developer
-![FullStack Javascript Developer](https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg)
 
 I am a developer passionate about javascript, I love my work but I like to see the satisfaction of my clients
 
