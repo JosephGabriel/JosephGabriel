@@ -6,10 +6,11 @@ I am a developer passionate about javascript, I love my work but I like to see t
 
 Skills: React / React Native / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working with freelance projects. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/JosephGabriel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josephgabrielmoura//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/josegabrielmoura)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/josegabrielmoura) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/JosephGabriel)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josephgabrielmoura//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriel)](https://github.com/anuraghazra/github-readme-stats)
 
