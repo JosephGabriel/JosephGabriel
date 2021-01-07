@@ -1,4 +1,4 @@
-![FullStack Javascript Developer](https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg)
+![FullStack Javascript Developer](https://github.com/JosephGabriel/JosephGabriel/blob/master/github-profile-background.png)
 
 ### Hi there 👋, I'm Joseph
 #### FullStack Javascript Developer
