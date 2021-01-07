@@ -1,4 +1,4 @@
-![FullStack Javascript Developer](https://github.com/JosephGabriel/JosephGabriel/blob/master/github-profile-background.png)
+![FullStack Javascript Developer](https://github.com/JosephGabriel/JosephGabriel/blob/master/git.jpg)
 
 ### Hi there 👋, I'm Joseph
 #### FullStack Javascript Developer
