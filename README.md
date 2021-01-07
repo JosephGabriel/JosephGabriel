@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Joseph
+#### FullStack Javascript Developer
+![FullStack Javascript Developer](https://cdn.mos.cms.futurecdn.net/EzgdmaCQuT84bgDL4fhXZS.jpg)
 
-<!--
-**JosephGabriel/JosephGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about javascript, I love my work but I like to see the satisfaction of my clients
 
-Here are some ideas to get you started:
+Skills: React / React Native / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/JosephGabriel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josephgabrielmoura//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/josegabrielmoura)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriel)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephGabriel&show_icons=true)  
+
