@@ -12,7 +12,7 @@
 
 I am a developer passionate about javascript, I love my work but I like to see the satisfaction of my clients
 
-Skills: React / React Native / JS / HTML / CSS
+Skills: React / React Native / JS / HTML / CSS & SASS / Node.Js / GraphQL 
 
 - 🔭 I’m currently working with freelance projects. 
 
